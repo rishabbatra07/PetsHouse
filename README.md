@@ -1,3 +1,8 @@
+This is the Android application under development for street dogs in our society
+
+
+
+
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
